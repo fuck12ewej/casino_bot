@@ -1,0 +1,190 @@
+{
+  "5855719307": {
+    "user_id": 5855719307,
+    "username": "qwerty22advanced",
+    "balance": 224.0,
+    "total_deposited": 0.0,
+    "total_wagered": 260.0,
+    "total_won": 104.0,
+    "total_lost": 120.0,
+    "games_played": 10,
+    "created_at": "2025-10-31T22:53:19.829402",
+    "last_activity": "2025-11-01T00:01:23.424227",
+    "game_history": [
+      {
+        "game_type": "coinflip_mp",
+        "bet": 50.0,
+        "win_amount": 90.0,
+        "profit": 40.0,
+        "result": "Win",
+        "timestamp": "2025-11-01T00:01:23.424218"
+      },
+      {
+        "game_type": "coinflip_mp",
+        "bet": 50.0,
+        "win_amount": 0,
+        "profit": -50.0,
+        "result": "Loss",
+        "timestamp": "2025-11-01T00:01:14.552728"
+      },
+      {
+        "game_type": "coinflip_mp",
+        "bet": 50.0,
+        "win_amount": 0,
+        "profit": -50.0,
+        "result": "Loss",
+        "timestamp": "2025-11-01T00:01:03.695702"
+      },
+      {
+        "game_type": "coinflip_mp",
+        "bet": 50.0,
+        "win_amount": 90.0,
+        "profit": 40.0,
+        "result": "Win",
+        "timestamp": "2025-11-01T00:00:52.398422"
+      },
+      {
+        "game_type": "dice_mp",
+        "bet": 10.0,
+        "win_amount": 10.0,
+        "profit": 0.0,
+        "result": "Draw",
+        "timestamp": "2025-11-01T00:00:36.312834"
+      },
+      {
+        "game_type": "dice_mp",
+        "bet": 10.0,
+        "win_amount": 18.0,
+        "profit": 8.0,
+        "result": "Win",
+        "timestamp": "2025-11-01T00:00:24.576243"
+      },
+      {
+        "game_type": "dice_mp",
+        "bet": 10.0,
+        "win_amount": 0,
+        "profit": -10.0,
+        "result": "Loss",
+        "timestamp": "2025-11-01T00:00:13.393910"
+      },
+      {
+        "game_type": "dice_mp",
+        "bet": 10.0,
+        "win_amount": 18.0,
+        "profit": 8.0,
+        "result": "Win",
+        "timestamp": "2025-11-01T00:00:02.669808"
+      },
+      {
+        "game_type": "coinflip_mp",
+        "bet": 10.0,
+        "win_amount": 0,
+        "profit": -10.0,
+        "result": "Loss",
+        "timestamp": "2025-10-31T22:54:14.489360"
+      },
+      {
+        "game_type": "coinflip_mp",
+        "bet": 10.0,
+        "win_amount": 18.0,
+        "profit": 8.0,
+        "result": "Win",
+        "timestamp": "2025-10-31T22:54:02.947040"
+      }
+    ]
+  },
+  "7727130914": {
+    "user_id": 7727130914,
+    "username": "okkiwq",
+    "balance": 248.0,
+    "total_deposited": 0.0,
+    "total_wagered": 260.0,
+    "total_won": 96.0,
+    "total_lost": 130.0,
+    "games_played": 10,
+    "created_at": "2025-10-31T22:53:30.148189",
+    "last_activity": "2025-11-01T00:01:23.425575",
+    "game_history": [
+      {
+        "game_type": "coinflip_mp",
+        "bet": 50.0,
+        "win_amount": 0,
+        "profit": -50.0,
+        "result": "Loss",
+        "timestamp": "2025-11-01T00:01:23.425566"
+      },
+      {
+        "game_type": "coinflip_mp",
+        "bet": 50.0,
+        "win_amount": 90.0,
+        "profit": 40.0,
+        "result": "Win",
+        "timestamp": "2025-11-01T00:01:14.551397"
+      },
+      {
+        "game_type": "coinflip_mp",
+        "bet": 50.0,
+        "win_amount": 90.0,
+        "profit": 40.0,
+        "result": "Win",
+        "timestamp": "2025-11-01T00:01:03.694323"
+      },
+      {
+        "game_type": "coinflip_mp",
+        "bet": 50.0,
+        "win_amount": 0,
+        "profit": -50.0,
+        "result": "Loss",
+        "timestamp": "2025-11-01T00:00:52.399751"
+      },
+      {
+        "game_type": "dice_mp",
+        "bet": 10.0,
+        "win_amount": 10.0,
+        "profit": 0.0,
+        "result": "Draw",
+        "timestamp": "2025-11-01T00:00:36.314185"
+      },
+      {
+        "game_type": "dice_mp",
+        "bet": 10.0,
+        "win_amount": 0,
+        "profit": -10.0,
+        "result": "Loss",
+        "timestamp": "2025-11-01T00:00:24.577528"
+      },
+      {
+        "game_type": "dice_mp",
+        "bet": 10.0,
+        "win_amount": 18.0,
+        "profit": 8.0,
+        "result": "Win",
+        "timestamp": "2025-11-01T00:00:13.392382"
+      },
+      {
+        "game_type": "dice_mp",
+        "bet": 10.0,
+        "win_amount": 0,
+        "profit": -10.0,
+        "result": "Loss",
+        "timestamp": "2025-11-01T00:00:02.671228"
+      },
+      {
+        "game_type": "coinflip_mp",
+        "bet": 10.0,
+        "win_amount": 18.0,
+        "profit": 8.0,
+        "result": "Win",
+        "timestamp": "2025-10-31T22:54:14.487925"
+      },
+      {
+        "game_type": "coinflip_mp",
+        "bet": 10.0,
+        "win_amount": 0,
+        "profit": -10.0,
+        "result": "Loss",
+        "timestamp": "2025-10-31T22:54:02.948469"
+      }
+    ]
+  }
+}
